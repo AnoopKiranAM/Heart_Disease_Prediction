@@ -7,15 +7,15 @@
 ### The input array consists of these columns :
 * age	
 * sex	
-*cp	
-*trestbps	
-*chol	
-*fbs	
-*restecg	
-*thalach	
-*exang	
-*oldpeak	
-*slope	
-*ca	
-*thal	
+* cp	
+* trestbps	
+* chol	
+* fbs	
+* restecg	
+* thalach	
+* exang	
+* oldpeak	
+* slope	
+* ca	
+* thal	
 
